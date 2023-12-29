@@ -1,7 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saadia Bouloudene
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saadia Bouloudene
 Future Data Developer focused on AI
 Using data for improvement* 🌍  I'm based in Valenciennes* ✉️  You can contact me at [saadiabouloudene@gmail.com](mailto:saadiabouloudene@gmail.com)* 🧠  I'm learning Data Sciences* 🤝  I'm open to collaborating on projects based on ML* ⚡  I like playing Loup Garou
 
+
+<div>
+  <h2>Future Data Developer focused on AI</h2>
+  <p>Using data for improvement</p>
+  <ul>
+    <li>🌍  I'm based in Valenciennes</li>
+    <li>✉️  You can contact me at <a href="mailto:saadiabouloudene@gmail.com">saadiabouloudene@gmail.com</a></li>
+    <li>🧠  I'm learning Data Sciences</li>
+    <li>🤝  I'm open to collaborating on projects based on ML</li>
+    <li>⚡  I like playing Loup Garou</li>
+  </ul>
+</div>
 ### Skills
 
 
