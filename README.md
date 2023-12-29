@@ -2,10 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 Future Data Developer focused on using data for improvement
 
-✉️ You can contact me at [saadiabouloudene@gmail.com](mailto:saadiabouloudene@gmail.com) 
-🧠  I'm learning Data Sciences  
-🤝  I'm open to collaborating on projects based on ML 
-⚡  I like playing Loup Garou 
+✉️  You can contact me at [saadiabouloudene@gmail.com](mailto:saadiabouloudene@gmail.com)
+🧠  I'm learning Data Sciences
+🤝  I'm open to collaborating on projects based on ML
+⚡  I like playing Loup Garou
 
 ### Skills
 
