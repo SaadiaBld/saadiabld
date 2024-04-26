@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saadia Bouloudene
 =========================================================================================================================================
-Future Data Developer focused on using data for improvement
+Future Data Analyst/ Data Developer focused on using data for improvement.
 
 ✉️  You can contact me at [saadiabouloudene@gmail.com](mailto:saadiabouloudene@gmail.com)
 🧠  I'm learning Data Sciences
